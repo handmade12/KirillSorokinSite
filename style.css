@@ -1,0 +1,42 @@
+body {
+  background: linear-gradient(BurlyWood, SaddleBrown);
+  font-family: inherit;
+}
+.nav {
+  text-align: center;
+  font-size: 22px;
+}
+
+.btn {
+  font-family: sans-serif;
+}
+
+.header {
+  text-align: center;
+}
+
+.footer {
+  width: 100%;
+}
+
+h1 {
+  font-size: 300%; /* Размер шрифта */
+  border-bottom: 5px solid maroon; /* Параметры линии под текстом */
+  font-weight: normal; /* Убираем жирное начертание */
+  padding-bottom: 5px; /* Расстояние от текста до линии */
+}
+
+a {
+  color: #33ff00; /* Цвет текста */
+  background: rgb(139 121 94); /* Цвет фона */
+  padding: 2px; /* Поля вокруг текста */
+}
+/*<a href="KirillSorokin.html"> </a>
+		<a href="AboutMe.html"> </a>
+    Я не знаю что это и зачем*/
+
+/*background-color: rgb(139 121 94);
+    Что это делала в .btn ахахахах
+    
+    rgb(205 179 139)
+    */
